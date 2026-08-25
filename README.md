@@ -19,3 +19,6 @@ Branching
 3. git checkout <branch name> (to navigate)
 4. git checkout -b <new breanch name> (to create a new branch)
 5. git branch -d <branch name> (to delete branch)
+
+Meargin 
+1. git diff <branch name>
