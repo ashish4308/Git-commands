@@ -8,3 +8,10 @@ Learning git so this is a readme file or notes for me for future references
 3. Check the Status (git status)
 4. Check the branch (git branch)
 5. Rename the branch (git branch -M name)
+6. Add all the changes (git add .)
+7. Commit using the message (git commit -m "basic version")
+8. pushing the code (git push origin branch_name)
+
+
+Branching
+1. 
