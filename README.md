@@ -14,4 +14,8 @@ Learning git so this is a readme file or notes for me for future references
 
 
 Branching
-1. 
+1. git branch 
+2. git branch -M name (to rename branch)
+3. git checkout <branch name> (to navigate)
+4. git checkout -b <new breanch name> (to create a new branch)
+5. git branch -d <branch name> (to delete branch)
